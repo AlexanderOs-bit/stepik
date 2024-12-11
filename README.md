@@ -1,2 +1,0 @@
-# stepik
-My first repository
